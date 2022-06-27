@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "477784447670",
+    "firebase_url": "https://blingo-25d1d-default-rtdb.firebaseio.com",
+    "project_id": "blingo-25d1d",
+    "storage_bucket": "blingo-25d1d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:477784447670:android:919ea33b953322671ee417",
+        "android_client_info": {
+          "package_name": "com.example.blingo2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "477784447670-ahpgn0uibq3onc3c8miurvk50lgh9dcp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.blingo2",
+            "certificate_hash": "f489d8345879ecb6b35acf68a551782dcd743d1a"
+          }
+        },
+        {
+          "client_id": "477784447670-4130pl8nnt592sj56pvmfrni8qc1n2on.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYgtPLRZbuyh6XbQltT8ilYA2BcRPmFXE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "477784447670-4130pl8nnt592sj56pvmfrni8qc1n2on.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="app_name">Blingo</string>
+<string name="facebook_app_id">629021418152473</string>
+<string name="fb_login_protocol_scheme">fb629021418152473</string>
+</resources>
